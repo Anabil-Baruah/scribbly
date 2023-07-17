@@ -7,6 +7,7 @@ export const siteConfig: SiteConfig = {
   url: "https://scribbly-lime.vercel.app",
   ogImage: "https://scribbly-lime.vercel.app/og.jpg",
   links: {
+    linkedin:"https://www.linkedin.com/in/subham-bharadwaz-5a9792197/",
     twitter: "https://twitter.com/subh4mBharadwaz",
     github: "https://github.com/subhamBharadwaz",
   },
